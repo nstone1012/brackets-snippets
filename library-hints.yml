@@ -69,7 +69,7 @@
 
 - trigger: ga2
   scope: html
-  description: New Google Analytics
+  description: New Google Analytix
   text: |
         <script>
             (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
